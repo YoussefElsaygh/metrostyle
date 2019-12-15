@@ -295,6 +295,7 @@ var scopeimages=[{
                     for (let row = 0; row < scoperows; row++) {
                         switch (img.align) {
                             case 'vertical':
+                                case undefined:
 
                                 if (checkAvailableVerticalPlace(img.type)) {
                                     if (rowCheckAvaialble(row, img.type) && compareRowArray(col, row, scopegridView, img.type)) {
