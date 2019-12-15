@@ -18,7 +18,7 @@ To create metro tile an object fields as follows must be declared
         text: {  //label to be appeared on top of image  
             label: "ff805d",
             textStyle: {
-                color: "White"
+                color: "White" 
             }
         }
 }]
