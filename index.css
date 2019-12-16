@@ -4,6 +4,6 @@
     width: 100%;
     display: grid;
     grid-gap: 5px;
-    grid-template-columns:repeat(5,175px);
+    grid-template-columns:repeat(10,175px);
     grid-template-rows:repeat(3, 150px);
   }
